@@ -99,7 +99,7 @@ p {
 
 .container {
   display: grid;
-  grid-template-columns: 30% 40% 30%;
+  grid-template-columns: 29% 42% 29%;
   grid-template-rows: auto auto auto;
   margin-bottom: 20px;
 }
